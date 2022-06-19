@@ -1,0 +1,98 @@
+{
+  "ArrayOfCompanyinfoWebsiteResponseExtended": {
+    "CompanyinfoWebsiteResponseExtended": {
+      "CompanyInfo": "...",
+      "message": "Success",
+      "_AudiInfo": "...",
+      "_CEOInfo": "...",
+      "_Directorinfo": {
+        "VossDirectorInfoResponse": [
+          {
+            "CompanyCode": 103487,
+            "DirectorAddress": "RIMPA SUNBEAM APARTMENT, HOUSE 54, GIZRI ROAD, KARACHI",
+            "DirectorCNIC": 4200077238159,
+            "DirectorEmail": "-",
+            "DirectorFatherName": "HAROON SAEED SIDDIQUI",
+            "DirectorName": "MR. ADNAN HAROON SIDDIQUI",
+            "DirectorNationality": "Pakistan",
+            "DirectorPhoneNum": "-",
+            "DirectorType": "Director",
+            "responseStatus": "Success"
+          },
+          {
+            "CompanyCode": 103487,
+            "DirectorAddress": "HOUSE NO. 4B, ZULFIQAR STREET 4, PHASE 8, DHA, KARACHI",
+            "DirectorCNIC": 3520295469567,
+            "DirectorEmail": "-",
+            "DirectorFatherName": "ADNAN BASHIR KHAN",
+            "DirectorName": "MR. AZAM ADNAN KHAN",
+            "DirectorNationality": "Pakistan",
+            "DirectorPhoneNum": "-",
+            "DirectorType": "Director",
+            "responseStatus": "Success"
+          },
+          {
+            "CompanyCode": 103487,
+            "DirectorAddress": "22A/II, 3RD GIZRI STREET, PHASE IV, DHA, KARACHI.",
+            "DirectorCNIC": 4200038134045,
+            "DirectorEmail": "-",
+            "DirectorFatherName": "ZAFAR ALI HILALY",
+            "DirectorName": "MR. HAIDER ALI HILALY",
+            "DirectorNationality": "Pakistan",
+            "DirectorPhoneNum": "-",
+            "DirectorType": "Director",
+            "responseStatus": "Success"
+          },
+          {
+            "CompanyCode": 103487,
+            "DirectorAddress": "MODEL COLONY, HOUSE NO. 27, STREET NO. 4, LIAQUAT POOR, DISTRICT RAHIM YAR KHAN",
+            "DirectorCNIC": 6110136645685,
+            "DirectorEmail": "-",
+            "DirectorFatherName": "CHAUDHRY MUHAMMAD IQBAL",
+            "DirectorName": "MR. MUHAMMAD ABDUL MANNAN",
+            "DirectorNationality": "Pakistan",
+            "DirectorPhoneNum": "-",
+            "DirectorType": "Director",
+            "responseStatus": "Success"
+          },
+          {
+            "CompanyCode": 103487,
+            "DirectorAddress": "HOUSE NO. 1, STREET 17, SECTOR C, DHA, PHASE I, ISLAMABAD",
+            "DirectorCNIC": 3740582261385,
+            "DirectorEmail": "-",
+            "DirectorFatherName": "IMTIAZ AHMED WARRAICH",
+            "DirectorName": "MR. RABEEL HAMZA WARRAICH",
+            "DirectorNationality": "Pakistan",
+            "DirectorPhoneNum": "-",
+            "DirectorType": "Director",
+            "responseStatus": "Success"
+          },
+          {
+            "CompanyCode": 103487,
+            "DirectorAddress": "B-28, LALA ZAR NEW QUEENS ROAD, KARACHI",
+            "DirectorCNIC": 4200004362567,
+            "DirectorEmail": "-",
+            "DirectorFatherName": "ABDUL MALIK",
+            "DirectorName": "MR. RAFIQ",
+            "DirectorNationality": "Pakistan",
+            "DirectorPhoneNum": "-",
+            "DirectorType": "Director",
+            "responseStatus": "Success"
+          },
+          {
+            "CompanyCode": 103487,
+            "DirectorAddress": "HOUSE NO. 26/1/2, STREET NO. 15, KHAYABAN-E-SHAMSHEER, PHASE V, DHA, KARACHI Sindh Pakistan",
+            "DirectorCNIC": 6110197404021,
+            "DirectorEmail": "-",
+            "DirectorFatherName": "RAJA IDREES MUHAMMAD ANWAR",
+            "DirectorName": "MR. RAJA MUNEEB IDREES",
+            "DirectorNationality": "Pakistan",
+            "DirectorPhoneNum": "-",
+            "DirectorType": "Director",
+            "responseStatus": "Success"
+          }
+        ]
+      }
+    }
+  }
+}
